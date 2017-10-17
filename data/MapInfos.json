@@ -1,7 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"世界地图 3","order":1,"parentId":0,"scrollX":3600,"scrollY":780.6666666666666},
-{"id":2,"expanded":true,"name":"城堡","order":2,"parentId":1,"scrollX":1157,"scrollY":1680.5},
-{"id":3,"expanded":false,"name":"学校 走廊","order":4,"parentId":2,"scrollX":973.3333333333334,"scrollY":404.6666666666667},
-{"id":4,"expanded":false,"name":"城堡 1F","order":3,"parentId":2,"scrollX":451,"scrollY":1356.5}
+{"id":1,"expanded":true,"name":"世界地图 3","order":1,"parentId":0,"scrollX":3600,"scrollY":780.5},
+{"id":2,"expanded":true,"name":"城堡","order":2,"parentId":1,"scrollX":1613,"scrollY":780.5},
+{"id":3,"expanded":false,"name":"学校 走廊","order":4,"parentId":2,"scrollX":1032,"scrollY":372.5},
+{"id":4,"expanded":false,"name":"城堡 1F","order":3,"parentId":2,"scrollX":550,"scrollY":1276.5},
+{"id":5,"expanded":true,"name":"学校 18班 教室","order":5,"parentId":2,"scrollX":451,"scrollY":412.5},
+{"id":6,"expanded":false,"name":"学校 20班 教室","order":6,"parentId":2,"scrollX":451,"scrollY":456.5}
 ]
