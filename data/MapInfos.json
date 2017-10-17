@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"世界地图 3","order":1,"parentId":0,"scrollX":3600,"scrollY":780.6666666666666},
+{"id":2,"expanded":true,"name":"城堡","order":2,"parentId":1,"scrollX":1157,"scrollY":1680.5},
+{"id":3,"expanded":false,"name":"学校 走廊","order":4,"parentId":2,"scrollX":973.3333333333334,"scrollY":404.6666666666667},
+{"id":4,"expanded":false,"name":"城堡 1F","order":3,"parentId":2,"scrollX":451,"scrollY":1356.5}
+]
